@@ -1,5 +1,5 @@
 resource "aws_elasticsearch_domain" "elasticsearch_domain" {
-  domain_name = "madhatter-elasticsearch-domain"
+  domain_name = "https-example-com"
 
   elasticsearch_version = "7.10"
 
